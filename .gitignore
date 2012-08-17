@@ -8,4 +8,4 @@ static/
 settings.py
 *.swp
 *.un~
-ENV
+venv
